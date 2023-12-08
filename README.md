@@ -4,7 +4,7 @@ Hi guys this my java project which is basic text editor app.
 I have provided jar file and a exe file 
 
 # Jar File Requirements 
-If u need jar file ur computer should have java version "20.0.1"(Open cmd > type java -version)
+If u need jar file ur computer should have java version "20.0.1" or higher than "20.0.1"(Open cmd > type java -version)
 
 U can find the jar file under V1.0.Y in Releases
 
