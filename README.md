@@ -11,6 +11,6 @@ U can find the jar file under V1.0.0 in Releases
 # Exe File
 If u need .exe file just extract the zip file guys
 
-U can find the zip file under V1.0.0-ZIP IN Releases
+U can find the zip file under V1.0.0-ZIP in Releases
 
 hope u like my project :)
